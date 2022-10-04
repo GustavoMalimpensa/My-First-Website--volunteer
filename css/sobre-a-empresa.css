@@ -1,0 +1,192 @@
+#sobre-a-empresa {
+    width: 100%;
+    background-color: #6f43e9  ;
+}
+
+.ajustador-2 {
+    padding: 144px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 460px;
+    max-width: 1064px;
+    margin: 0 auto;
+}
+
+
+h2 {
+    font-family:  'Oswald', sans-serif;
+    font-size: 45px;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    position: relative;
+    left: -69px;
+    bottom: -38px;
+}
+
+.circulo { 
+    position: absolute;
+    top: 233px;
+    margin-top: 64px;
+    margin-left: -103px;
+}
+
+.circulo-conteiner {
+    max-width: 100%;
+}
+
+.logo {
+    width: 323px;
+    height: 368px;
+    position: relative;
+    cursor: pointer;
+    transition: ease 1s;
+    right: -49px;
+    top: -50px;
+}
+
+.logo:hover {
+    transform: scale(1.05);
+}
+
+@keyframes html {
+    0% {
+        bottom: 0;
+        left: 250px;
+    }
+    100% {
+        bottom: 0;
+        left: 50px;
+    }
+}
+
+@keyframes css {
+    0% {
+        bottom: 0;
+        left: 50px;
+    }
+    100% {
+        bottom: 0;
+        left: 250px;
+    }
+}
+
+.html {
+    bottom: 0;
+    left: 0;
+    animation: html 3s infinite linear alternate-reverse ;
+}
+
+.js {
+    bottom: 0;
+    left: 150px;
+}
+
+.css {
+    bottom: 0;
+    left: 300px;
+    animation: css 3s infinite linear alternate-reverse;
+}
+.sobre-a-empresa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    right: 100px;
+}
+
+.sobre-a-empresa p {
+    text-indent: 30px;
+    font-size: 21px;
+    max-width: 609.25px;
+    color: white;
+}
+
+@media (max-width:1200px) {
+    .ajustador-2 {
+        justify-content: center;
+        text-align: center;
+        padding-bottom: 425px;
+    }
+
+    .circulo-conteiner {
+        right: -25px;
+        position: relative;
+        top: -212px;
+    }
+
+    .desenho {
+        margin-right: 60px;
+        
+    }
+
+    .logo {
+        max-width: 145px;
+        max-height: 160px;
+        top: 288px;
+        right: 131px;
+    }
+  
+}
+
+@media(max-width:950px){
+
+    .circulo {
+        display: absolute;
+        padding-left: 30px;
+    }
+
+    @keyframes html {
+        0% {
+            bottom: 0;
+            left: 220px;
+        }
+        100% {
+            bottom: 0;
+            left: 80px;
+        }
+    }
+    
+    @keyframes css {
+        0% {
+            bottom: 0;
+            left: 80px;
+        }
+        100% {
+            bottom: 0;
+            left: 220px;
+        }
+    }
+    
+    .logo {
+        margin-right: 0;
+    }
+    h2 {
+        
+        font-size: 30px;
+        position: relative;
+        left: -69px;
+        bottom: 168px;
+        margin-left: -10px;
+    }
+    .sobre-a-empresa p {
+    
+        position: absolute;
+        margin-left: -108px;
+        padding: 13px;
+        margin-bottom: -150px;
+
+    }
+    .sobre-a-empresa {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        position: absolute;
+        right: 17px;
+        top:  889px;
+    }
+    
+
+}
