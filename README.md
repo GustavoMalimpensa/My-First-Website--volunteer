@@ -1,10 +1,13 @@
 <html>
 <h1> See the website <hi1/>
-<img src="./img/foto-site.png"/>           
+<div>
+   <img src="./img/foto-site.png"
+   <a href="http://gustavomalimpensa.my-first-website/"> />           
    <div  class="breve
-   <a href="http://gustavomalimpensa.my-first-website/"> 
-   </a>
-   </div>   
+      
+      </a>
+   </div>
+</div>   
 <html/>
 
 
