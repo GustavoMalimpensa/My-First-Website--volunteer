@@ -1,10 +1,10 @@
 <html>
 <h1 My-First-Website-volunteer-><hi1/>
-<img src="foto-site"/>           
+<img src="![Uploading foto-site.png…]()"/>           
    <div  class="breve
-   <a href="https://gustavomalimpensa.github.io/My-First-Website-volunteer-/">
-   <p>linkedin</p> 
+   <a href="https://gustavomalimpensa.github.io/My-First-Website-volunteer-/"> 
    </a>
    </div>   
 <html/>
+
 
