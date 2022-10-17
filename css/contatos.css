@@ -119,10 +119,10 @@ iframe {
        flex-direction: inherit;
        margin-top: 69px;
        padding-bottom: 175px;
-       margin-left: 159px;
+       margin-left: 143px;
        column-gap: -100px;
        position: relative;
-       top: 5px;
+       top: -100px;
   }
   
 
@@ -136,7 +136,7 @@ iframe {
         font-family: 'Oswald', sans-serif;
         font-size: 25px;
         position: absolute;
-        margin-top: 150px;
+        margin-top: 60px;
         padding-top: 185px;
     }
     h4 {
@@ -144,7 +144,7 @@ iframe {
         margin-right: 5px;
         position: relative;
         font-size: 30px;
-        top: 45px;
+        top: -60px;
         font-size: 45px;
     
     }
@@ -174,13 +174,13 @@ iframe {
     }
     .map-responsivo {
     
-        margin-top: -105px;
+        margin-top: -200px;
         position: inherit;
-        margin-left: 89px;
+        margin-left: 79px;
     }
     iframe {
         width: 260px;
-        height: 150px;
+        height: 190px;
     }
 
    

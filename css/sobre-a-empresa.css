@@ -125,8 +125,8 @@ p {
     .logo {
         max-width: 145px;
         max-height: 160px;
-        top: 288px;
-        right: 131px;
+        top: 300px;
+        right: 125px;
     }
   
 }
@@ -167,16 +167,16 @@ p {
         
         font-size: 30px;
         position: relative;
-        left: -69px;
-        bottom: 168px;
+        left: -62px;
+        bottom: 105px;
         margin-left: -10px;
     }
     .sobre-a-empresa p {
     
         position: absolute;
-        margin-left: -108px;
+        margin-left: -80px;
         padding: 13px;
-        margin-bottom: -150px;
+        margin-bottom: -215px;
 
     }
     .sobre-a-empresa {
