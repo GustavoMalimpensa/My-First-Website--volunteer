@@ -85,20 +85,19 @@ h3 {
     gap: 29.5px;
     width: 50%;
     justify-content: center;
-    margin-top: 170px;
+    margin-top: 130px;
     position: relative;
-    top: -100px;
+    top: -70px;
 }
 
 .map-responsivo {
     width: 50%;
     position: absolute;
     right: 53px;
-    bottom: -2560px;
+    bottom: -1900px;
 }  
 
 iframe {
-
     width: 600px;
     height: 450px;
 }
